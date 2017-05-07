@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/ekas/Webpack-starter-kit.git"
   },
-  "author": "Ekas Preet Singh",
+  "author": "ekas",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ekas/Webpack-starter-kit/issues"
